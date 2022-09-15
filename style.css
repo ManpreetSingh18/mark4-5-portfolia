@@ -67,6 +67,7 @@ hr{
 /**Header **/
 .hero{
     padding: 2rem;
+    padding-top: 5rem;
 }
 
 .hero .hero-img{
@@ -109,7 +110,16 @@ footer{
 .footer .link{
     color: white;
 }
+.footer footer-header{
+    font-weight: bold;
+    font-size: large;
+}
 
 footer ul{
-    padding-inline-start: 0px;
+     padding-inline-start: 0px;
+}
+
+/** Spaces**/
+.margin-md{
+    margin: 2rem;
 }
